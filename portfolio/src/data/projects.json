@@ -1,20 +1,66 @@
 [
     {
         "id": 1,
-        "title": "My awesome project",
-        "description": "This is my awesome project that I have done in just 1 hour",
-        "image": "/img/project-1.png"
+        "title": "Weather and Location Site",
+        "description": "This was a group project, where I worked in a team of 4 to create an interactive world mad using APIs. Our interactive world map allows you to seamlessly navigate through different locations, providing you with up-to-date weather information and a unique twist – facts from Wikipedia for a deeper dive into the local culture and geography.",
+        "image": "/img/project-1.png",
+        "deployLink": "https://ajayabt.github.io/Weather-and-Location-Information-Website/",
+        "githubLink": "https://github.com/ajayabt/Weather-and-Location-Information-WebsiteLinks",
+        "demoImage": "/img/project-2.png"
     },
+
     {
         "id": 2,
-        "title": "My awesome project 2",
-        "description": "This is my awesome project that I have done in just 2 hours",
-        "image": "/img/project-2.png"
+        "title": "Weather-Dashboard",
+        "description": "This application is a weather dashboard. The user can search city names to get the weather info.",
+        "image": "/img/project-2.png",
+        "deployLink": "https://sara-badini-confalonieri.github.io/Weather-Dashboard/",
+        "githubLink": "https://github.com/Sara-Badini-Confalonieri/Weather-Dashboard",
+        "demoImage": "/img/project-2.png"
     },
+
     {
         "id": 3,
-        "title": "My awesome project 3",
-        "description": "This is my awesome project that I have done in just 3 hours",
-        "image": "/img/project-3.png"
+        "title": "Console Finances",
+        "description": "This code can analyze the financial records of a company. I've used the 'for loop' to calculate the greatest increase and decrease in profit/losses.",
+        "image": "/img/project-2.png",
+        "deployLink": "https://sara-badini-confalonieri.github.io/console-finances/",
+        "githubLink": "https://github.com/Sara-Badini-Confalonieri/Console-Finances",
+        "demoImage": "/img/project-2.png"
+    },
+    {
+        "id": 4,
+        "title": "Javascript Coding Quiz",
+        "description": "This application is a timed, multiple-choice Javascript coding quiz that will keep track of high scores.",
+        "image": "/img/project-2.png",
+        "deployLink": "https://sara-badini-confalonieri.github.io/Javascript_Coding_Quiz",
+        "githubLink": "https://github.com/Sara-Badini-Confalonieri/Javascript_Coding_Quiz",
+        "demoImage": "/img/project-2.png"
+    },
+
+    {
+        "id": 5,
+        "title": "Work Day Planner",
+        "description": "A planner application that allows a user to save events for each hour of the day",
+        "image": "/img/project-2.png",
+        "deployLink": "https://sara-badini-confalonieri.github.io/Work_Day_Planner/",
+        "githubLink": "https://github.com/Sara-Badini-Confalonieri/Work_Day_Planner",
+        "demoImage": "/img/project-2.png"
+    },
+    {
+        "id": 6,
+        "title": "README file Generator",
+        "description": "This application uses Node.js to create a README file by gathering user input and generating content based on a set of project-related questions",
+        "image": "/img/project-2.png",
+        "githubLink": "https://github.com/Sara-Badini-Confalonieri/README-file-Generator",
+        "demoImage": "/img/project-2.png"
+    },
+    {
+        "id": 7,
+        "title": "Team Profile Generator",
+        "description": "This application uses node.js to generate an HTML file containing and displaying team members' information based on the user's inputs.",
+        "image": "/img/project-2.png",
+        "githubLink": "https://github.com/Sara-Badini-Confalonieri/Team-Profile-Generator",
+        "demoImage": "/img/project-2.png"
     }
 ]
