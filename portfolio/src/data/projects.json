@@ -3,64 +3,57 @@
         "id": 1,
         "title": "Weather and Location Site",
         "description": "This was a group project, where I worked in a team of 4 to create an interactive world mad using APIs. Our interactive world map allows you to seamlessly navigate through different locations, providing you with up-to-date weather information and a unique twist – facts from Wikipedia for a deeper dive into the local culture and geography.",
-        "image": "/img/project-1.png",
+        "image": "src/img/weather_wise.png",
         "deployLink": "https://ajayabt.github.io/Weather-and-Location-Information-Website/",
-        "githubLink": "https://github.com/ajayabt/Weather-and-Location-Information-WebsiteLinks",
-        "demoImage": "/img/project-2.png"
+        "githubLink": "https://github.com/ajayabt/Weather-and-Location-Information-WebsiteLinks"
     },
 
     {
         "id": 2,
         "title": "Weather-Dashboard",
         "description": "This application is a weather dashboard. The user can search city names to get the weather info.",
-        "image": "/img/project-2.png",
+        "image": "src/img/weather_dashboard.png",
         "deployLink": "https://sara-badini-confalonieri.github.io/Weather-Dashboard/",
-        "githubLink": "https://github.com/Sara-Badini-Confalonieri/Weather-Dashboard",
-        "demoImage": "/img/project-2.png"
+        "githubLink": "https://github.com/Sara-Badini-Confalonieri/Weather-Dashboard"
     },
 
     {
         "id": 3,
-        "title": "Console Finances",
-        "description": "This code can analyze the financial records of a company. I've used the 'for loop' to calculate the greatest increase and decrease in profit/losses.",
-        "image": "/img/project-2.png",
-        "deployLink": "https://sara-badini-confalonieri.github.io/console-finances/",
-        "githubLink": "https://github.com/Sara-Badini-Confalonieri/Console-Finances",
-        "demoImage": "/img/project-2.png"
+        "title": "Password Generator",
+        "description": "This application generates a random password based on the criteria the user selects.",
+        "image": "src/img/password_generator.png",
+        "deployLink": "https://sara-badini-confalonieri.github.io/password-generator/",
+        "githubLink": "https://github.com/Sara-Badini-Confalonieri/password-generator"
     },
     {
         "id": 4,
         "title": "Javascript Coding Quiz",
         "description": "This application is a timed, multiple-choice Javascript coding quiz that will keep track of high scores.",
-        "image": "/img/project-2.png",
+        "image": "src/img/coding_quiz.png",
         "deployLink": "https://sara-badini-confalonieri.github.io/Javascript_Coding_Quiz",
-        "githubLink": "https://github.com/Sara-Badini-Confalonieri/Javascript_Coding_Quiz",
-        "demoImage": "/img/project-2.png"
+        "githubLink": "https://github.com/Sara-Badini-Confalonieri/Javascript_Coding_Quiz"
     },
 
     {
         "id": 5,
         "title": "Work Day Planner",
         "description": "A planner application that allows a user to save events for each hour of the day",
-        "image": "/img/project-2.png",
+        "image": "src/img/work_day_planner.png",
         "deployLink": "https://sara-badini-confalonieri.github.io/Work_Day_Planner/",
-        "githubLink": "https://github.com/Sara-Badini-Confalonieri/Work_Day_Planner",
-        "demoImage": "/img/project-2.png"
+        "githubLink": "https://github.com/Sara-Badini-Confalonieri/Work_Day_Planner"
     },
     {
         "id": 6,
         "title": "README file Generator",
         "description": "This application uses Node.js to create a README file by gathering user input and generating content based on a set of project-related questions",
-        "image": "/img/project-2.png",
-        "githubLink": "https://github.com/Sara-Badini-Confalonieri/README-file-Generator",
-        "demoImage": "/img/project-2.png"
+        "image": "src/img/read_me_file_generator.png",
+        "githubLink": "https://github.com/Sara-Badini-Confalonieri/README-file-Generator"
     },
     {
         "id": 7,
         "title": "Team Profile Generator",
         "description": "This application uses node.js to generate an HTML file containing and displaying team members' information based on the user's inputs.",
-        "image": "/img/project-2.png",
-        "githubLink": "https://github.com/Sara-Badini-Confalonieri/Team-Profile-Generator",
-        "demoImage": "/img/project-2.png"
+        "image": "src/img/team_profile_generator.png",
+        "githubLink": "https://github.com/Sara-Badini-Confalonieri/Team-Profile-Generator"
     }
 ]
