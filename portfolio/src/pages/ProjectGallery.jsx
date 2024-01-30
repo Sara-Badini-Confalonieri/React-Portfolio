@@ -5,10 +5,10 @@ import projects from '../data/projects.json';
 
 function ProjectGallery() {
   return (
-    <div className="container mt-4">
-      <h1 className="mb-4">My Projects:</h1>
+    <div className="container mt-5">
+      <h1 className="mb-5">My Projects:</h1>
 
-      <div className="row g-4">
+      <div className="row">
         <div className="col-12 col-lg-12">
           {projects.slice(0, 1).map((project) => (
             <Link key={project.id} to={`/projects/${project.id}`} className="text-decoration-none">

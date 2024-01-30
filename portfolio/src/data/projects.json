@@ -12,7 +12,7 @@
         "id": 2,
         "title": "Weather-Dashboard",
         "description": "This application is a weather dashboard. The user can search city names to get the weather info.",
-        "image": "public/img/weather_dashboard.png",
+        "image": "src/img/weather_dashboard.png",
         "deployLink": "https://sara-badini-confalonieri.github.io/Weather-Dashboard/",
         "githubLink": "https://github.com/Sara-Badini-Confalonieri/Weather-Dashboard"
     },
