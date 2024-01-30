@@ -1,5 +1,4 @@
 import React from "react";
-import headshotImage from "../img/photo1.png";
 
 function Home() {
     return (
@@ -7,7 +6,7 @@ function Home() {
             <div className="row align-items-center" style={{ background: "#f0f0f0", padding: "30px" }}>
                 <div className="col-md-4 text-center">
                     <img
-                        src={headshotImage}
+                        src="src/img/photo1.png"
 
                         className="img-fluid rounded-circle border"
                         style={{ width: "200px", height: "200px", objectFit: "cover" }}
