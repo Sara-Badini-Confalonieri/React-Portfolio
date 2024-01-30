@@ -126,7 +126,7 @@ function Home() {
                                         <div className="mb-4">
                                             <strong>Download Resume:</strong>{" "}
                                             <a
-                                                href="../src/img/Sara-Badini-CV-2024.pdf"
+                                                href="./src/img/Sara-Badini-CV-2024.pdf"
                                                 download="Sara-Badini-CV-2024.pdf"
                                                 className="text-primary"
                                             >
