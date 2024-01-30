@@ -8,7 +8,6 @@ function Home() {
                 <div className="col-md-4 text-center">
                     <img
                         src={headshotImage}
-                        alt="Your Headshot"
                         className="img-fluid rounded-circle border"
                         style={{ width: "200px", height: "200px", objectFit: "cover" }}
                     />
