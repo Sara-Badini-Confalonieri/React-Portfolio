@@ -8,6 +8,7 @@ function Home() {
                 <div className="col-md-4 text-center">
                     <img
                         src={headshotImage}
+
                         className="img-fluid rounded-circle border"
                         style={{ width: "200px", height: "200px", objectFit: "cover" }}
                     />
@@ -59,7 +60,7 @@ function Home() {
                         </div>
                         <div className="col-lg-2 col-md-4 col-sm-6">
                             <div className="skills-item mx-auto mb-lg-0" style={{ width: "120px" }}>
-                                <img className="img-fluid rounded-circle mb-3 p-2" src="src/img//logo-r.png" alt="" />
+                                <img className="img-fluid rounded-circle mb-3 p-2" src="src/img/logo-r.png" alt="" />
                                 <h5 className="text-center">REACT</h5>
                             </div>
                         </div>
