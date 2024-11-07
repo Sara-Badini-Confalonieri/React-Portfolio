@@ -1,0 +1,90 @@
+/* General Styles */
+.container {
+    font-family: "Roboto", sans-serif;
+}
+
+/* Profile Section */
+.intro-section {
+    background: #f9f9f9;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+.profile-img {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+.welcome-heading {
+    color: #333;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.welcome-text {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+/* Skills Section */
+.skills-section {
+    background-color: #eef3f8;
+    padding: 50px 0;
+}
+.section-title {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    color: #333;
+}
+.skill-card {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.1);
+}
+.skill-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+}
+.skill-icon {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+
+/* About Section */
+.about-section {
+    background-color: #ffffff;
+}
+.about-card {
+    border: none;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    background: #fdfdfd;
+}
+.contact-card {
+    border: none;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+/* Footer */
+.footer {
+    background: #333;
+    color: #ddd;
+}
+.footer p {
+    margin: 0;
+}
+.social-links {
+    margin-top: 10px;
+}
+.social-link {
+    color: #ddd;
+    margin: 0 10px;
+    transition: color 0.3s;
+}
+.social-link:hover {
+    color: #48c6ef;
+}

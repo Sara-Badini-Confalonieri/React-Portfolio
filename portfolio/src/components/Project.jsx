@@ -30,7 +30,7 @@ function Project(props) {
           className="card-img-top"
           alt={title}
           style={{
-            height: "200px",
+            height: "300px",
             objectFit: "cover",
           }}
         />
@@ -41,7 +41,7 @@ function Project(props) {
             color: "white",
           }}
         >
-          <h2 className="card-title">{title}</h2>
+          <h5 className="card-title">{title}</h5>
         </div>
       </Link>
     </div>

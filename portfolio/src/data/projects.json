@@ -1,15 +1,25 @@
 [
     {
         "id": 1,
-        "title": "Weather and Location Site",
-        "description": "This was a group project, where I worked in a team of 4 to create an interactive world mad using APIs. Our interactive world map allows you to seamlessly navigate through different locations, providing you with up-to-date weather information and a unique twist – facts from Wikipedia for a deeper dive into the local culture and geography.",
-        "image": "src/img/weather_wise.png",
-        "deployLink": "https://ajayabt.github.io/Weather-and-Location-Information-Website/",
-        "githubLink": "https://github.com/ajayabt/Weather-and-Location-Information-WebsiteLinks"
+        "title": "Gallery Groove",
+        "description": "Gallery Groove is a collaborative project dedicated to providing a delightful experience for those seeking to explore and discover stunning artworks from all around the world.",
+        "image": "src/img/gallery_groove.gif",
+        "deployLink": "https://main--fancy-nougat-d5b169.netlify.app/",
+        "githubLink": "https://github.com/alinakristy/gallery-groove"
     },
 
     {
         "id": 2,
+        "title": "Javascript Coding Quiz",
+        "description": "This application is a timed, multiple-choice Javascript coding quiz that will keep track of high scores.",
+        "image": "src/img/coding_quiz.png",
+        "deployLink": "https://sara-badini-confalonieri.github.io/Javascript_Coding_Quiz",
+        "githubLink": "https://github.com/Sara-Badini-Confalonieri/Javascript_Coding_Quiz"
+    },
+
+
+    {
+        "id": 3,
         "title": "Weather-Dashboard",
         "description": "This application is a weather dashboard. The user can search city names to get the weather info.",
         "image": "src/img/weather_dashboard.png",
@@ -18,24 +28,27 @@
     },
 
     {
-        "id": 3,
-        "title": "Password Generator",
-        "description": "This application generates a random password based on the criteria the user selects.",
-        "image": "src/img/password_generator.png",
-        "deployLink": "https://sara-badini-confalonieri.github.io/password-generator/",
-        "githubLink": "https://github.com/Sara-Badini-Confalonieri/password-generator"
-    },
-    {
         "id": 4,
-        "title": "Javascript Coding Quiz",
-        "description": "This application is a timed, multiple-choice Javascript coding quiz that will keep track of high scores.",
-        "image": "src/img/coding_quiz.png",
-        "deployLink": "https://sara-badini-confalonieri.github.io/Javascript_Coding_Quiz",
-        "githubLink": "https://github.com/Sara-Badini-Confalonieri/Javascript_Coding_Quiz"
+        "title": "Weather and Location Site",
+        "description": "This was a group project, where I worked in a team of 4 to create an interactive world mad using APIs. Our interactive world map allows you to seamlessly navigate through different locations, providing you with up-to-date weather information and a unique twist – facts from Wikipedia for a deeper dive into the local culture and geography.",
+        "image": "src/img/weather_wise.png",
+        "deployLink": "https://ajayabt.github.io/Weather-and-Location-Information-Website/",
+        "githubLink": "https://github.com/ajayabt/Weather-and-Location-Information-WebsiteLinks"
     },
 
     {
         "id": 5,
+        "title": "Password Generator",
+        "description": "This application generates a random password based on the criteria the user selects.",
+        "image": "src/img/password_generator.gif",
+        "deployLink": "https://sara-badini-confalonieri.github.io/password_generator_version_2",
+        "githubLink": "https://github.com/Sara-Badini-Confalonieri/password_generator_version_2"
+    },
+
+    
+
+    {
+        "id": 6,
         "title": "Work Day Planner",
         "description": "A planner application that allows a user to save events for each hour of the day",
         "image": "src/img/work_day_planner.png",
@@ -43,14 +56,14 @@
         "githubLink": "https://github.com/Sara-Badini-Confalonieri/Work_Day_Planner"
     },
     {
-        "id": 6,
+        "id": 7,
         "title": "README file Generator",
         "description": "This application uses Node.js to create a README file by gathering user input and generating content based on a set of project-related questions",
         "image": "src/img/read_me_file_generator.png",
         "githubLink": "https://github.com/Sara-Badini-Confalonieri/README-file-Generator"
     },
     {
-        "id": 7,
+        "id": 8,
         "title": "Team Profile Generator",
         "description": "This application uses node.js to generate an HTML file containing and displaying team members' information based on the user's inputs.",
         "image": "src/img/team_profile_generator.png",

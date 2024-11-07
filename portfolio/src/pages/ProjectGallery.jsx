@@ -9,16 +9,16 @@ function ProjectGallery() {
       <h1 className="mb-5">My Projects:</h1>
 
       <div className="row">
-        <div className="col-12 col-lg-12">
-          {projects.slice(0, 1).map((project) => (
+        {/* <div className="col-12 col-lg-12 pt-30 pb-30">
+          {projects.slice(0, 2).map((project) => (
             <Link key={project.id} to={`/projects/${project.id}`} className="text-decoration-none">
               <Project {...project} inGallery />
             </Link>
           ))}
-        </div>
+        </div> */}
 
         <div className="col-12 col-md-6 col-lg-6">
-          {projects.slice(1, 4).map((project) => (
+          {projects.slice(0, 4).map((project) => (
             <Link key={project.id} to={`/projects/${project.id}`} className="text-decoration-none">
               <Project {...project} inGallery />
             </Link>
