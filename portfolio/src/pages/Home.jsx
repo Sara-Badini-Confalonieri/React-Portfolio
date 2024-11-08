@@ -1,9 +1,10 @@
 import React from "react";
-import "animate.css"; // Import Animate.css for animations
+import "animate.css";
 
 function Home() {
     return (
         <div className="mt-4">
+            
             {/* Hero Section */}
             <div className="row align-items-center" style={{ background: "#f9f9f9", padding: "40px", borderRadius: "10px" }}>
                 <div className="col-md-4 text-center animate__animated animate__fadeInLeft">
